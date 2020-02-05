@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoWindowsForm", "StudentInfoWindowsForm\StudentInfoWindowsForm.csproj", "{76735C11-0662-4012-BEC5-5884678F0893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenShow", "SplashScreenShow\SplashScreenShow.csproj", "{ACED3899-83DC-4E38-8114-403AE1F1B506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76735C11-0662-4012-BEC5-5884678F0893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76735C11-0662-4012-BEC5-5884678F0893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76735C11-0662-4012-BEC5-5884678F0893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76735C11-0662-4012-BEC5-5884678F0893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACED3899-83DC-4E38-8114-403AE1F1B506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACED3899-83DC-4E38-8114-403AE1F1B506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACED3899-83DC-4E38-8114-403AE1F1B506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACED3899-83DC-4E38-8114-403AE1F1B506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1930BA3F-692C-43AD-888D-C880A9AB6F4F}
+	EndGlobalSection
+EndGlobal
